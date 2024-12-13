@@ -8,8 +8,9 @@ https://drive.google.com/drive/folders/1VVVwkuYkkQeDJNa0TMyf2cptkaHSb6v2
 
 <a href="https://drive.google.com/drive/folders/1VVVwkuYkkQeDJNa0TMyf2cptkaHSb6v2" target="_blank">
 
-<h4>Requirements.txt</h4>
-```
+Requirements.txt
+
+```text
 annotated-types==0.7.0
 anyio==4.6.2.post1
 asgiref==3.8.1
@@ -57,4 +58,4 @@ tqdm==4.66.6
 typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.2.3
-
+```
