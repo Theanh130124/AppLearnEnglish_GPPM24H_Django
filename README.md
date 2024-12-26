@@ -4,7 +4,42 @@
 
 <h1>Some pictures of the website</h1>
 
-https://drive.google.com/drive/folders/1VVVwkuYkkQeDJNa0TMyf2cptkaHSb6v2
+![image](https://github.com/user-attachments/assets/85aa8015-c5c9-46bd-8a6c-d7b6d70a7403)
+
+![image](https://github.com/user-attachments/assets/e5be5d67-2eaf-4917-9ca5-058de3abe6f0)
+
+![image](https://github.com/user-attachments/assets/2c6a0bcc-4370-4fcb-8669-8ad9624c712e)
+
+
+![image](https://github.com/user-attachments/assets/90caff40-8910-4e10-8cdf-987ad8f2e1f7)
+
+![image](https://github.com/user-attachments/assets/d9d5af6d-f6a1-4e85-b3f4-71896fd0a2a0)
+
+![image](https://github.com/user-attachments/assets/005c5037-bee5-487f-b57c-b0bae4cdc0fe)
+
+![image](https://github.com/user-attachments/assets/6a399686-60d5-410d-b3e0-794bb1994e25)
+
+
+![image](https://github.com/user-attachments/assets/83d57036-6fdc-4582-96be-ee4771a09da2)
+
+![image](https://github.com/user-attachments/assets/16c8056c-0fdf-4a09-89f3-37d8c3521247)
+
+
+![image](https://github.com/user-attachments/assets/025b445b-808c-4110-87cc-d7b4ce97f999)
+
+
+![image](https://github.com/user-attachments/assets/ded42c85-2ad4-4d25-8850-f96869c4ceec)
+
+![image](https://github.com/user-attachments/assets/953da3d8-14a4-4263-9d8d-f2d00362c285)
+
+![image](https://github.com/user-attachments/assets/006c7bc7-f30b-4aa0-b338-574958310b4b)
+
+![image](https://github.com/user-attachments/assets/c0e6fa88-2a7c-497e-bd87-0b0eb056aedd)
+
+Admin 
+
+![image](https://github.com/user-attachments/assets/9c938acb-83b1-48ee-b498-d4ff09bc2526)
+
 
 <a href="https://drive.google.com/drive/folders/1VVVwkuYkkQeDJNa0TMyf2cptkaHSb6v2" target="_blank"> Click here</a> 
 
